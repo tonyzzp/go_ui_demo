@@ -4,5 +4,5 @@
 
 使用库 https://github.com/andlabs/ui
 
-只支持windows
+- ubuntu上需要安装  `sudo apt-get install libgtk-3-dev`
 
